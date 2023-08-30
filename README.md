@@ -1,6 +1,6 @@
 # BowlingBall
 
-Given a valid sequence of rolls for one line of American Ten-Pin Bowling, produces the total score for the game.
+Given a valid sequence of rolls for one line of Ten-Pin Bowling, produces the total score for the game.
 
 Here are some things that the program does not need to do:
 - Does not need to check for valid rolls.
@@ -8,7 +8,7 @@ Here are some things that the program does not need to do:
 
 How are bowling games scored?
 
-![alt text](https://github.com/reviewmenow/BowlingBall/blob/main/bowling_frames.png)
+![alt text](https://github.com/reviewmenow/BowlingBall/blob/bowling-ball/bowling_frames.png)
 
 The game consists of 10 frames as shown above. In each frame the player has two opportunities to knock down 10 pins. The score for the frame is the total number of pins knocked down, plus bonuses for strikes and spares. 
 
